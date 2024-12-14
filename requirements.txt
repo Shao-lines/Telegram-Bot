@@ -1,0 +1,9 @@
+deep-translator==1.11.4
+geopy==2.4.1
+googletrans==3.1.0a
+httpx==0.23.0
+pycountry==24.6.1
+python-telegram-bot==21.9
+pytz==2024.2
+requests==2.32.3
+timezonefinder==6.5.7
